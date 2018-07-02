@@ -1,0 +1,71 @@
+I'm a STM32
+
+Transmitting at 868 Mhz...
+RFM69_ATC Enabled (Auto Transmission Control)
+
+Setup done, starting soon...
+Sending[0]:  ok!
+Sending[1]: 1 ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[2]: 12 ok!
+Sending[3]: 123 ok!
+Sending[4]: 123  ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[5]: 123 A ok!
+Sending[6]: 123 AB ok!
+Sending[7]: 123 ABC ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[8]: 123 ABCD ok!
+Sending[9]: 123 ABCDE ok!
+Sending[10]: 123 ABCDEF ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[11]: 123 ABCDEFG ok!
+Sending[12]: 123 ABCDEFGH ok!
+Sending[13]: 123 ABCDEFGHI ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[14]: 123 ABCDEFGHIJ ok!
+Sending[15]: 123 ABCDEFGHIJK ok!
+Sending[16]: 123 ABCDEFGHIJKL ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[17]: 123 ABCDEFGHIJKLM ok!
+Sending[18]: 123 ABCDEFGHIJKLMN ok!
+Sending[19]: 123 ABCDEFGHIJKLMNO ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[20]: 123 ABCDEFGHIJKLMNOP ok!
+Sending[21]: 123 ABCDEFGHIJKLMNOPQ ok!
+Sending[22]: 123 ABCDEFGHIJKLMNOPQR ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[23]: 123 ABCDEFGHIJKLMNOPQRS ok!
+Sending[24]: 123 ABCDEFGHIJKLMNOPQRST ok!
+Sending[25]: 123 ABCDEFGHIJKLMNOPQRSTU ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[26]: 123 ABCDEFGHIJKLMNOPQRSTUV ok!
+Sending[27]: 123 ABCDEFGHIJKLMNOPQRSTUVW ok!
+Sending[28]: 123 ABCDEFGHIJKLMNOPQRSTUVWX ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[29]: 123 ABCDEFGHIJKLMNOPQRSTUVWXY ok!
+Sending[30]: 123 ABCDEFGHIJKLMNOPQRSTUVWXYZ ok!
+Sending[0]:  ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[1]: 1 ok!
+Sending[2]: 12 ok!
+
+***************************************************************************
+/Users/Jones/Documents/Developer/PV-Manager-V2/Power-Meter-Board/Software/STM32/tests/RFM69-Node/RFM69-Node.ino Jul  2 2018 09:10:35
+Slave Select Pin: 4
+Interrupt Pin: 8
+Interrupt Number: 8
+Is RFM69HW: 1
+Power Level: 0
+Frequency: 868000000
+NODEID: 3
+NETWORKID: 100
+Test Pin (LED on STM32F103C Bluepill): 32
+***************************************************************************
+
+Sending[3]: 123 ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
+Sending[4]: 123  ok!
+Sending[5]: 123 A ok!
+Sending[6]: 123 AB ok!
+[1] ACK TEST   [RX_RSSI:-38] - ACK sent
